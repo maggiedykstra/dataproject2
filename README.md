@@ -11,7 +11,9 @@ To use our Discord Bot:
 
 Go to http://34.21.10.71:5001/chat and click the invite link to invite the Discord Bot to your server.
 
-Example Command !player Stephen Curry
+Example Command: !player Stephen Curry
+
+You can use the above command to get information on any player, just change the name to the name of the player you are interested in.
 
 To test:
 In Terminal or Postman, run
